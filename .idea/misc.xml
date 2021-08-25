@@ -4,6 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_my_profile.xml" value="0.1361111111111111" />
+        <entry key="app/src/main/res/layout/fragment_pizza_store_list.xml" value="0.1361111111111111" />
+        <entry key="app/src/main/res/layout/store_list_item.xml" value="0.1361111111111111" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.12129629629629629" />
       </map>
     </option>
   </component>
